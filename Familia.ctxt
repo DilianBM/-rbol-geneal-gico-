@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cedulaFam\ per\ per2
+comment0.target=Familia(java.lang.String,\ Persona,\ Persona)
+comment1.params=
+comment1.target=Familia()
+comment2.params=cedula\ head
+comment2.target=Familia(java.lang.String,\ Persona)
+comment3.params=familiar
+comment3.target=void\ agregarFamiliar(Persona)
+comment4.params=hijo
+comment4.target=void\ agregarListHijos(Persona)
+comment5.params=
+comment5.target=java.lang.String\ getCedula()
+numComments=6

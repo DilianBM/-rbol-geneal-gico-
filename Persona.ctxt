@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Persona()
+comment1.params=n
+comment1.target=Persona(java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ getTipRol()
+comment11.params=pers
+comment11.target=void\ hijosPro(Persona)
+comment11.text=\r\n\ recibe\ una\ persona\ y\ lo\ agrega\ a\ la\ lista\ de\ hijos\ propios\ y\ no\ retorna\ nada\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment3.params=n
+comment3.target=void\ setNom(java.lang.String)
+comment4.params=
+comment4.target=boolean\ getVive()
+comment5.params=
+comment5.target=java.lang.String\ getCed()
+comment6.params=
+comment6.target=java.lang.String\ cedufFam()
+comment7.params=ce
+comment7.target=void\ setCed(java.lang.String)
+comment8.params=ce
+comment8.target=void\ cedufFam(java.lang.String)
+comment9.params=tr
+comment9.target=void\ setTipRol(java.lang.String)
+numComments=12
